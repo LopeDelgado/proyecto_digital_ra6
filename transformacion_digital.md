@@ -97,10 +97,10 @@
 
 ## 💡 9. Valor del proyecto
 
-- Beneficios económicos:
+- Beneficios económicos: Mayor eficiencia, mejores decisiones basadas en datos, mejor experiencia del cliente
 - Mejora operativa:
 - Ventaja competitiva:
-- Riesgos de no digitalizar:
+- Riesgos de no digitalizar: Menor adaptacion de mercado, perdida de competitividad
 
 ---
 
