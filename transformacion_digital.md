@@ -67,31 +67,31 @@
 ## 🔐 6. Seguridad y riesgos
 
 ### Riesgos identificados
-1.
-2.
-3.
+1. Robo de datos de clientes
+2. Ciberataques
+3. Errores de guardado de datos
 
 ### Medidas de protección
-1.
-2.
-3.
+1. Cifrado de datos
+2. Sistema de seguridad y control de acceso 
+3. Inversion en bases de datos
 
 ---
 
 ## 👨‍💻 7. Recursos humanos
 
-- Nuevos perfiles necesarios:
-- Formación requerida:
-- Cambios organizativos:
+- Nuevos perfiles necesarios: Analisis de datos
+- Formación requerida: Uso de herramientas
+- Cambios organizativos: Formacion digital continua, nuevos perfiles tecnologicos. 
 
 ---
 
 ## 🔗 8. Integración de sistemas
 
-- ERP utilizado o propuesto:
-- CRM utilizado o propuesto:
-- BPM / automatización:
-- Integración entre sistemas:
+- ERP utilizado o propuesto: Tienda online, almacenes, 
+- CRM utilizado o propuesto: Sistemas de ventas
+- BPM / automatización: Reposicion automatica de stock 
+- Integración entre sistemas: Pedidos gestionados automatica
 
 ---
 
