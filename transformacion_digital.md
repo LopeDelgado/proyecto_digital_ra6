@@ -107,14 +107,14 @@
 ## 📐 10. Modelado UML (OBLIGATORIO)
 
 ### Casos de uso
-- Actores:
-- Funcionalidades principales:
+- Actores: Cliente, empleado, responsable logística, proveedor, administrador
+- Funcionalidades principales:Realizar compra online, consultar productos, gestionar stock, reposición automática, generar ticket, gestionar pedidos
 
 ### Diagrama de clases
-- Entidades principales:
+- Entidades principales: 
 - Relaciones:
 
 ### Diagrama de secuencia (opcional)
-- Caso representado:
+- Caso representado: Adjunto la imagen de modelio en el mismo apartado que este pdf, en moodle. 
 
 ---
